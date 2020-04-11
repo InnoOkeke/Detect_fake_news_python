@@ -1,11 +1,11 @@
 # Detect_fake_news_python
 
-Detecting Fake News:: 
+<h1 align="center"> Detecting Fake News </h1>
 
 
 Do you trust all the news you hear from social media? All news are not real, right? So how will you detect the fake news? The answer is Python.
 
-What is Fake News?
+<h2> What is Fake News?</h2>
 
 
 A type of yellow journalism, fake news encapsulates pieces of news that may be hoaxes and is generally spread through social media and other online media. This is often done to further or impose certain ideas and is often achieved with political agendas. Such news items may contain false and/or exaggerated claims, and may end up being viralized by algorithms, and users may end up in a filter bubble.
